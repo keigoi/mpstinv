@@ -1,0 +1,8 @@
+(executable
+ (name poc)
+ (libraries
+  stdlib-shims
+  threads
+  domainslib
+  mpstinv
+  ))
